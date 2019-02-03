@@ -3,26 +3,28 @@
 
 # Software Libre
 
-*Python:*
+**Python:**
 https://www.python.org/
 
 _Python is a programming language_
 
-*Anaconda:*
+**Anaconda:**
 https://www.anaconda.com/enterprise/
 
 
 # Grupo de usuarios
-*Python open-source community*:
+**Python open-source community**:
 https://www.python.org/community/
-*PyLadies*: 
+
+**PyLadies**: 
 https://www.pyladies.com/
+
 https://www.pyladies.com/locations/
 
-*Python Spain*:
+**Python Spain**:
 https://wiki.python.org/moin/LocalUserGroups#Spain
 
-*MEETUP*
+**MEETUP**
 https://www.meetup.com/es/topics/python/
 
 https://www.meetup.com/es/python-madrid/

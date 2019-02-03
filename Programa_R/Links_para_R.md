@@ -2,38 +2,39 @@
 ### Este documento contiene links relacionados con R y su programación.
 
 # Software Libre
-*The R Project for Statistical Computing*
+**The R Project for Statistical Computing**
 https://www.r-project.org/
 
-*RStudio*
+**RStudio**
 https://www.rstudio.com/
 RStudio is an integrated development environment (IDE) for R.
 
 # Grupo de usuarios
 
-*En el mundo*:
+**En el mundo**:
 - Consorcio: https://www.r-consortium.org/
 - Rladies: https://rladies.org
 
-*En España*:
+**En España**:
 - Usuarios R-Madrid:  http://madrid.r-es.org/
 - Rladies: https://rladies.org/
 
-*Otros datos de interes*:
+**Otros datos de interes**:
 - Unirse como miembro: https://www.r-consortium.org/about/join
 - Certificacion: 
 https://www.r-consortium.org/announcement/2018/11/02/r-users-community-give-us-your-feedback-on-a-r-certification-to-teach-verify-skilled-r-professionals
+
 https://wiki.r-consortium.org/view/R_Certification
 
 # Links varios:
 
-*Varios*:
+**Varios**:
 https://www.quora.com/What-are-some-good-resources-for-learning-R-1
 
 # Cursos de R
 
 
-*Máster de Estadística Aplicada con R Software*
+**Máster de Estadística Aplicada con R Software**
 https://www.maximaformacion.es/curso/master-de-estadistica-aplicada-con-r-software/
 
 
