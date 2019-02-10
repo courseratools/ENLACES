@@ -40,14 +40,52 @@ https://www.maximaformacion.es/curso/master-de-estadistica-aplicada-con-r-softwa
 
 
 # MOOC de R
-
-- The Data Scientist’s Toolbox: 
+- *The Data Scientist’s Toolbox*: 
 https://www.coursera.org/specializations/jhu-data-science
-- R Programming:
+- *R Programming*:
 https://www.coursera.org/learn/r-programming
-- Introduction to Neurohacking In R:
+- *Introduction to Neurohacking In R*:
 https://www.coursera.org/learn/neurohacking
-- The Analytics Edge:
+- *The Analytics Edge*:
 https://www.edx.org/course/analytics-edge-mitx-15-071x-3
-- Data Science Research Methods: R Edition
+- *Data Science Research Methods: R Edition*:
 https://www.edx.org/course/research-methods-for-data-science-r-edition
+
+# Cursos UDEMY (español)
+- **Curso completo de R para Data Science con Tidyverse**:
+https://www.udemy.com/share/100fs2AEMadVlQRX4=/
+Creado por Juan Gabriel Gomila Salas
+Fecha de la última actualización: 1/2019
+Español
+*Aprende a programar con R, R Studio y Tidyverse: Data Analytics, Data Science, Análisis Estadístico, ggplot2 y mucho más*
+
+- **Comienza con R: Curso de R para Principiantes** 
+https://www.udemy.com/share/1002K4AEMadVlQRX4=/
+Creado por Sebastian Tunnell
+Fecha de la última actualización: 10/2018
+Español
+*Aprende a programar con R hoy mismo!*
+
+- **Introducción a Data Scientist programando en R**
+https://www.udemy.com/share/1002K0AEMadVlQRX4=/
+Creado por David Manero
+Fecha de la última actualización: 10/2018
+Español
+*Analiza Redes Sociales desde cero para convertirte en un Héroe del Dato*
+
+- **Estadística fácil con R usando la interfaz R Commander**
+https://www.udemy.com/share/100axKAEMadVlQRX4=/
+Creado por Mario Modesto Mata
+Fecha de la última actualización: 8/2018
+Español
+*R Commander nos facilita la realización de análisis estadísticos en R a través de unos menús gráficos muy cuidados.*
+
+- **Ciencia de Datos con R**
+https://www.udemy.com/share/100b9UAEMadVlQRX4=/
+Creado por Rubén Sánchez Sancho
+Fecha de la última actualización: 7/2018
+Español
+*Aprende a adquirir, organizar, combinar, limpiar y presentar datos de diferentes fuentes y sistemas de almacenamiento.*
+
+
+# Cursos UDEMY (inglés)
