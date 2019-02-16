@@ -7,7 +7,7 @@ Un aspecto importante dentro del Análisis de Datos son los DATOS y tambíen la 
 En este documento se incluyen diferentes repositorios para la obtención de datos.
 
 ## OPEN DATA
-Existen diferentes WEB con información abierta por lo que también existen diferentes iniciativas para aglutinar todos estos repositorios en otro que sirva de Catálogo para encontrr los datos buscados y no perderse en la CLOUD *"Nube"*
+Existen diferentes WEB con información abierta por lo que también existen diferentes iniciativas para aglutinar todos estos repositorios en otro que sirva de Catálogo para encontrar los datos buscados y no perderse en la CLOUD *"Nube"*
 
 Definición: http://opendatahandbook.org/guide/es/what-is-open-data/
 
