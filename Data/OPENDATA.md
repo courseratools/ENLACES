@@ -57,6 +57,8 @@ https://inspire.ec.europa.eu/
 
 Como punto destacado a parte creo que interesa destacar el proyecto **INSPIRE**. Es una iniciativa Europea en la que se están estandarizando todas las colecciones de datos producidos por las Administraciones Públicas para que la búsqueda e integración de la Información sea más facil.
 
+**Especificaciones**: https://inspire.ec.europa.eu/Themes/Data-Specifications/2892
+
 **Geoportal**: http://inspire-geoportal.ec.europa.eu/
 
 Los temas de información se agrupan en tres anexos ya que en su implantación se les ha dado una mayor importancia y prioridad de estandarización a los primeros:
@@ -117,8 +119,8 @@ https://www.bigdataspain.org/
 **ALL**
 https://www.europeandataportal.eu/es/what-we-do/calendar
 
-# CLOUD
-Aunque no es OPEN DATA pero también la opción de procesar en la WEB sin descargarse la información:
+## CLOUD
+Aunque no es OPEN DATA y si servicios WEB hay alternativas para procesar los datos en la WEB sin descargarse la información, ni instalar software en el equipo:
 
 **Copernicus Research and User Support (RUS)** 
 https://rus-copernicus.eu/portal/
@@ -128,3 +130,11 @@ Tiene la opción de procesado en: https://rus-copernicus.eu/portal/the-rus-offer
 Tiene la opción de descarga de datos: https://rus-copernicus.eu/portal/the-rus-offer/data/
 
 Tiene la opción de formación: https://rus-copernicus.eu/portal/the-rus-offer/training/
+
+_Videos explicativos_: 
+
+How to download Sentinel data: https://www.youtube.com/watch?v=-DZhfxmhlxM
+
+How to request a RUS Virtual Machine: https://www.youtube.com/watch?v=16BLrtbObSE
+
+How to register to RUS Copernicus?: https://www.youtube.com/watch?v=r2KtgWdfkYQ
