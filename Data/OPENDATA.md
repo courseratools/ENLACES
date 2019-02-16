@@ -17,7 +17,7 @@ https://data.europa.eu/euodp/es/home
 **Portal Europeo de Datos**
 https://www.europeandataportal.eu/es/homepage
 
-![ejemplo](https://github.com/courseratools/ENLACES/blob/master/Data/img/DATA_CAT.JPG)
+<img src=https://github.com/courseratools/ENLACES/blob/master/Data/img/DATA_CAT.JPG width=500>
 
 **Iniciativa de datos abiertos del Gobierno de España**
 https://datos.gob.es/es
@@ -61,13 +61,13 @@ Como punto destacado a parte creo que interesa destacar el proyecto **INSPIRE**.
 
 Los temas de información se agrupan en tres anexos ya que en su implantación se les ha dado una mayor importancia y prioridad de estandarización a los primeros:
 
-![INSPIRE_A1](https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A1.JPG)
+<img src=https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A1.JPG width=500>
 
-![INSPIRE_A2](https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A2.JPG)
+<img src=https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A2.JPG width=500>
 
 Los temas del **ANEXO 3** son:
 
-![INSPIRE_A3](https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A3.JPG)
+<img src= https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A3.JPG width=500>
 
 
 
