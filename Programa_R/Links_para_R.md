@@ -16,6 +16,8 @@ RStudio is an integrated development environment (IDE) for R.
 - Rladies: https://rladies.org
 
 **En España**:
+- Comunidad R Hispano: http://r-es.org/
+*Grupos locales*: http://r-es.org/grupos-locales/
 - Usuarios R-Madrid:  http://madrid.r-es.org/
 - Rladies: https://rladies.org/
 
@@ -89,3 +91,9 @@ Español
 
 
 # Cursos UDEMY (inglés)
+
+
+#Blog
+**R-BLOGGERS**
+https://www.r-bloggers.com/
+

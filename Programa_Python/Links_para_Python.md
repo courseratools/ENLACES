@@ -1,7 +1,11 @@
 # Enlaces de programación en Python
 ### Este documento contiene links relacionados con Python y su programación.
 
+*The Open Source Definition*
+https://opensource.org/osd
+
 # Software Libre
+https://opensource.org/node/966
 
 **Python:**
 https://www.python.org/
