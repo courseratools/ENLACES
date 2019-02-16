@@ -7,7 +7,7 @@ Un aspecto importante dentro del Análisis de Datos son los DATOS y tambíen la 
 En este documento se incluyen diferentes repositorios para la obtención de datos.
 
 ## OPEN DATA
-Existen diferentes WEB con información abierta por lo que también existen diferentes iniciativas para aglutinar todos estos repositorios en otro que sirva de Catálogo para encontrr los datos buscados y no perderse en la *"Nube"*
+Existen diferentes WEB con información abierta por lo que también existen diferentes iniciativas para aglutinar todos estos repositorios en otro que sirva de Catálogo para encontrr los datos buscados y no perderse en la CLOUD *"Nube"*
 
 Definición: http://opendatahandbook.org/guide/es/what-is-open-data/
 
@@ -17,14 +17,15 @@ https://data.europa.eu/euodp/es/home
 **Portal Europeo de Datos**
 https://www.europeandataportal.eu/es/homepage
 
-![](.\img\DATA_CAT.JPG)
+![ejemplo](https://github.com/courseratools/ENLACES/blob/master/Data/img/DATA_CAT.JPG)
 
 **Iniciativa de datos abiertos del Gobierno de España**
 https://datos.gob.es/es
 
 **Global Biodiversity Information Facility**
-*Acceso libre y gratuito a los datos de biodiversidad*
 https://www.gbif.org/
+
+    - *Acceso libre y gratuito a los datos de biodiversidad*
 
 https://www.gbif.org/country/ES/summary
 
@@ -33,24 +34,42 @@ https://www.gbif.org/country/ES/summary
 Se llaman IDES a la Infraestructura de Datos Espaciales. Es el mismo caso que lo explicado anteriormente pero con datos georreferenciados.
 
 **IDEE**
-Es el Nodo principal de la Red y contiene la catalogación de todas las IDEs locales y sectoriales de España.
 http://www.idee.es/
+
+*Es el Nodo principal de la Red y contiene la catalogación de todas las IDEs locales y sectoriales de España.*
 
 La descarga de Información se realiza desde:
 http://www.idee.es/web/guest/proyectos-idee
 
-*Articulo destacado:* http://blog-idee.blogspot.com/2019/02/evolucion-de-las-estadisticas-del.html
+*Articulo destacado:* 
+http://blog-idee.blogspot.com/2019/02/evolucion-de-las-estadisticas-del.html
 
 *IDEs Locales*:
 http://www.idee.es/centros-de-descarga
 
 **Jornadas Ibéricas IDE**
-http://www.jiide.org/
+http://www.jiide.org/ ; 
 http://www.idee.es/jornadas
 
 ### INSPIRE
-Como punto destacado a parte creo que interesa destacar el proyecto **INSPIRE**. Es una iniciativa Europea en la que se están estandarizando todas las colecciones de datos producidos por las Administraciones Públicas para que la búsqueda e integración de la Información sea más facil.
+Proyecto: 
 https://inspire.ec.europa.eu/
+
+Como punto destacado a parte creo que interesa destacar el proyecto **INSPIRE**. Es una iniciativa Europea en la que se están estandarizando todas las colecciones de datos producidos por las Administraciones Públicas para que la búsqueda e integración de la Información sea más facil.
+
+**Geoportal**: http://inspire-geoportal.ec.europa.eu/
+
+Los temas de información se agrupan en tres anexos ya que en su implantación se les ha dado una mayor importancia y prioridad de estandarización a los primeros:
+
+![INSPIRE_A1](https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A1.JPG)
+
+![INSPIRE_A2](https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A2.JPG)
+
+Los temas del **ANEXO 3** son:
+
+![INSPIRE_A3](https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A3.JPG)
+
+
 
 **Conferencias binual**
 https://inspire.ec.europa.eu/conference2018
@@ -66,8 +85,11 @@ Es el caso de la explotación de los datos ya sean mediante aplicaciones general
 
 **rOpenSci**
 https://ropensci.org/
+
+**rOpenSpain**
 https://ropenspain.es/
 
+**Scidataucm** (Madrid)
 http://scidataucm.org/
 
 **Comunidad Open Data**
@@ -76,25 +98,33 @@ https://www.w3.org/community/opendataspain/
 **Open Street Map**
 https://www.openstreetmap.org/about
 
-**CODATA**
+**CODATA**: 
 *Committee on Data of the International Council for Science*
-http://www.codata.org/
 
-##CONFERENCIAS
+WEB: http://www.codata.org/
+
+## CONFERENCIAS
 
 **Conference on Data Science**
 https://icdatascience.org/
 
+**Conference on Data**
 http://www.dataconference.org/
 
+**Conferencia sobre BIG Data en España**
 https://www.bigdataspain.org/
 
-
+**ALL**
+https://www.europeandataportal.eu/es/what-we-do/calendar
 
 # CLOUD
 Aunque no es OPEN DATA pero también la opción de procesar en la WEB sin descargarse la información:
+
 **Copernicus Research and User Support (RUS)** 
 https://rus-copernicus.eu/portal/
+
 Tiene la opción de procesado en: https://rus-copernicus.eu/portal/the-rus-offer/ict-offer/
+
 Tiene la opción de descarga de datos: https://rus-copernicus.eu/portal/the-rus-offer/data/
+
 Tiene la opción de formación: https://rus-copernicus.eu/portal/the-rus-offer/training/
