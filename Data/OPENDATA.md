@@ -1,12 +1,12 @@
-#DATOS ABIERTOS
+# DATOS ABIERTOS
 
-##PRESENTACION
+## PRESENTACION
 
 Un aspecto importante dentro del Análisis de Datos son los DATOS y tambíen la disponibilidad de estos.
 
 En este documento se incluyen diferentes repositorios para la obtención de datos.
 
-##OPEN DATA
+## OPEN DATA
 Existen diferentes WEB con información abierta por lo que también existen diferentes iniciativas para aglutinar todos estos repositorios en otro que sirva de Catálogo para encontrr los datos buscados y no perderse en la *"Nube"*
 
 Definición: http://opendatahandbook.org/guide/es/what-is-open-data/
@@ -28,7 +28,7 @@ https://www.gbif.org/
 
 https://www.gbif.org/country/ES/summary
 
-##IDES
+## IDES
 
 Se llaman IDES a la Infraestructura de Datos Espaciales. Es el mismo caso que lo explicado anteriormente pero con datos georreferenciados.
 
@@ -48,19 +48,19 @@ http://www.idee.es/centros-de-descarga
 http://www.jiide.org/
 http://www.idee.es/jornadas
 
-###INSPIRE
+### INSPIRE
 Como punto destacado a parte creo que interesa destacar el proyecto **INSPIRE**. Es una iniciativa Europea en la que se están estandarizando todas las colecciones de datos producidos por las Administraciones Públicas para que la búsqueda e integración de la Información sea más facil.
 https://inspire.ec.europa.eu/
 
 **Conferencias binual**
 https://inspire.ec.europa.eu/conference2018
 
-##APORTA##
+### APORTA
 https://datos.gob.es/acerca-de-la-iniciativa-aporta
 
 Descarga de datos: https://datos.gob.es/es/catalogo
 
-##OTRAS
+## OTRAS
 Alrededor de este tema se han creado otras alternativas.
 Es el caso de la explotación de los datos ya sean mediante aplicaciones generales o específicas:
 
