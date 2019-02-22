@@ -92,6 +92,19 @@ Español
 
 # Cursos UDEMY (inglés)
 
+**Data Science Academy: Master Data Science in R**
+https://www.udemy.com/share/1000bOAEMadVlQRX4=/
+
+*R Based Data Science: The Ultimate Data Science Course With Practical Examples & Hands-On Training*
+
+**Data Science Masterclass With R! 4 Projects+8 Case Studies**
+https://www.udemy.com/data-science-complete-course/learn/v4/overview
+
+
+# Canales de Youtube
+
+https://www.youtube.com/playlist?list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv
+
 
 #Blog
 **R-BLOGGERS**

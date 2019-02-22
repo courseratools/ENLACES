@@ -11,13 +11,16 @@ Existen diferentes WEB con información abierta por lo que también existen dife
 
 Definición: http://opendatahandbook.org/guide/es/what-is-open-data/
 
+Similar al https://www.data.gov/ de EEUU y su descarga https://catalog.data.gov/dataset en Europa y España surgen los siguientes proyectos:
+
+
 **Portal de Datos abiertos UE**
 https://data.europa.eu/euodp/es/home
 
 **Portal Europeo de Datos**
 https://www.europeandataportal.eu/es/homepage
 
-<img src=https://github.com/courseratools/ENLACES/blob/master/Data/img/DATA_CAT.JPG width=500>
+<img src=https://github.com/ingdatageocart/ENLACES/blob/master/Data/img/DATA_CAT.JPG width=500>
 
 **Iniciativa de datos abiertos del Gobierno de España**
 https://datos.gob.es/es
@@ -63,13 +66,13 @@ Como punto destacado a parte creo que interesa destacar el proyecto **INSPIRE**.
 
 Los temas de información se agrupan en tres anexos ya que en su implantación se les ha dado una mayor importancia y prioridad de estandarización a los primeros:
 
-<img src=https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A1.JPG width=500>
+<img src=https://github.com/ingdatageocart/ENLACES/blob/master/Data/img/INSPIRE_A1.JPG width=500>
 
-<img src=https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A2.JPG width=500>
+<img src=https://github.com/ingdatageocart/ENLACES/blob/master/Data/img/INSPIRE_A2.JPG width=500>
 
 Los temas del **ANEXO 3** son:
 
-<img src= https://github.com/courseratools/ENLACES/blob/master/Data/img/INSPIRE_A3.JPG width=500>
+<img src= https://github.com/ingdatageocart/ENLACES/blob/master/Data/img/INSPIRE_A3.JPG width=500>
 
 
 
@@ -104,6 +107,9 @@ https://www.openstreetmap.org/about
 *Committee on Data of the International Council for Science*
 
 WEB: http://www.codata.org/
+
+**CEDA**
+http://www.ceda.ac.uk/
 
 ## CONFERENCIAS
 

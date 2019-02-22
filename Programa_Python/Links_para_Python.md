@@ -41,3 +41,19 @@ https://www.meetup.com/es/python-madrid/
 *PyconES*: https://2018.es.pycon.org/
 
 # Otros
+
+
+# CURSOS
+
+**Complete Data Science Training with Python for Data Analysis**
+
+https://www.udemy.com/complete-data-science-training-with-python-for-data-analysis/learn/v4/overview
+
+**Apache Spark 2 with Python - Big Data with PySpark and Spark**
+
+https://www.udemy.com/share/100pOIAEMadVlQRX4=/
+
+**Tensorflow and Keras For Neural Networks and Deep Learning**
+
+https://www.udemy.com/share/100viaAEMadVlQRX4=/
+
