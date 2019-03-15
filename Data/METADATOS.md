@@ -1,30 +1,63 @@
-# DATOS ABIERTOS
+# METAINFORMACIÓN
 
 ## PRESENTACION
 
-Un aspecto importante dentro del Análisis de Datos son los **DATOS** y tambien la disponibilidad, usabilidad y accesibilidad de estos.
+Metainformación es toda aquella información que caracteriza una información. Es el caso de un etiquetado en un producto, las especificaciones técnicas de un instrumento o un proyecto, la vida laboral de un trabajador,... Pero esta no va a ser el objetivo de este documento sino la metainformación de un dato analizable.
 
-En este documento se incluyen diferentes repositorios para la obtención de datos.
+Un aspecto importante dentro del Análisis de Datos son los **DATOS** pero tambien debe de saberse alguna información más como su procedencia, proposito, fiabilidad, disponibilidad, usabilidad, accesibilidad..., de estos. Toda esta información recibe el nombre de **METADATOS**
 
-## OPEN DATA
+En este documento se incluyen diferentes características de los metadatos y su utilidad.
+
+## METADATOS
+El metadato es una información adjunta a los datos o conjunto de datos que informa de sus características.
+
+Sus funciones son:
+- Poder catalogar la información: mediante un título, reseña, ID,...
+- Poder hacer búsquedas de información con unas ciertas características.
+- Poder completar o analizar esa información, conociendo el ámbito de estudio y sus especificaciones.
+- Y otras funciones más, todas ellas sin necesidad de leer y ser descargados los datos originales.
+
+Los metadatos vienen estipulados por diferentes normativas dependiendo del área de actuación pero en todas ellas se busca una homogeneidad de criterio. Este link encontrado hace un compendio de muchas iniciativas de normalización en diferentes áreas de actuación:
+
+**METADATA**
+http://rd-alliance.github.io/metadata-directory/standards/
+
+### GEOINFORMACION
+
+Es en el campo de la GEOINFORMACION dónde toma una mayor importancia.
+En la actualidad es la ISO 19115 con diferentes extensiones según el dato al que acompañe:
+19115-1:
+19115-2:
+19115-3:
+
+A continuación se presentan algunos link con información relacionada con la no
+
+http://rd-alliance.github.io/metadata-directory/standards/iso-19115.html
+
+
+**ISO 19115 Geographic Metadata Information**
+https://earthdata.nasa.gov/user-resources/standards-and-references/iso-19115
+
+
+
+
+http://www.nconemap.com/DiscoverGetData/Metadata.aspx
+
+
+
+## METACALIDAD
+La metacalidad al igual que los metadatos da una serie de información sobre los diferentes procedimienteos por los que ha pasado el dato hasta llegar a este valor
+
+## REPOSITORIOS
+
+Los repositorios son diferentes dominios
+
 Existen diferentes WEB con información abierta por lo que también existen diferentes iniciativas para aglutinar todos estos repositorios en otro que sirva de Catálogo para encontrar los datos buscados y no perderse en la CLOUD *"Nube"*
 
 Definición: http://opendatahandbook.org/guide/es/what-is-open-data/
 
 Similar al https://www.data.gov/ de **EEUU** y su descarga https://catalog.data.gov/dataset en **Europa** y **España** surgen los siguientes proyectos:
 
-
-**EOSDIS**
-
-https://earthdata.nasa.gov/about
-
-**Global Imagery Browse Services (GIBS)**
-https://earthdata.nasa.gov/about/science-system-description/eosdis-components/global-imagery-browse-services-gibs
-
-**Earth Observation Data**
-https://earthdata.nasa.gov/earth-observation-data
-
-NASA's Earth Observing System (EOS) comprises a series of satellites, a science component and a data system which is called the Earth Observing System Data and Information System (EOSDIS).
 
 **Portal de Datos abiertos UE**
 https://data.europa.eu/euodp/es/home
@@ -156,3 +189,20 @@ How to download Sentinel data: https://www.youtube.com/watch?v=-DZhfxmhlxM
 How to request a RUS Virtual Machine: https://www.youtube.com/watch?v=16BLrtbObSE
 
 How to register to RUS Copernicus?: https://www.youtube.com/watch?v=r2KtgWdfkYQ
+
+
+**Crear metadatos de ISO 19115 e ISO 19139:**
+https://pro.arcgis.com/es/pro-app/help/metadata/create-iso-19115-and-iso-19139-metadata.htm
+ArcGISPro
+
+**Common Metadata Repository (CMR)**
+https://earthdata.nasa.gov/about/science-system-description/eosdis-components/common-metadata-repository
+
+**DDI and Metadata Workshops**
+Kelly Chatain
+https://ddi-alliance.atlassian.net/wiki/spaces/DDI4/pages/433225729/DDI%2Band%2BMetadata%2BWorkshops
+
+**ISO 19157: Calidad de datos y su relación con las normas de la familia ISO 19100** 
+Elena Chicaiza M.
+http://www.ide.cl/descargas/SEMINARIO_NIG/PRESENTACIONES/4EG.pdf
+
