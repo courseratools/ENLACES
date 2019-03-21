@@ -114,12 +114,24 @@ https://www.udemy.com/share/1000bOAEMadVlQRX4=/
 https://www.udemy.com/data-science-complete-course/learn/v4/overview
 
 
+
+# DataCamp y R
+
+**Quick-R**
+https://www.statmethods.net/r-tutorial/index.html
+
+
 # Canales de Youtube
 
+**IDG TECHtalk**
 https://www.youtube.com/playlist?list=PL7D2RMSmRO9JOvPC1gbA8Mc3azvSfm8Vv
 
 
-#Blog
+# Blog
 **R-BLOGGERS**
 https://www.r-bloggers.com/
 
+
+Otros:
+
+https://www.meetup.com/es-ES/useRchile/pages/10710352/R_aplicado_a_los_Recursos_Naturales_[R-sig-geo]/

@@ -1,11 +1,12 @@
 Taller de R
 ========================================================
 author: 
-date: 
+date: 2019
 autosize: True
 
 
-# INFORMACION
+
+# INFORMACIÓN
 
 Comunidad R
 ========================================================
@@ -18,7 +19,7 @@ Estos son algunos enlaces de interés relacionados con R Consorcio: https://www.r
 - RopenSpain: https://ropenspain.es/
 
 Puedes asistir a los *Meetup* mensuales:
-
+-----
 - https://www.meetup.com/es-ES/rladies-madrid
 - https://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid
 
@@ -35,8 +36,8 @@ Estos son algunos enlaces de interés relacionados con documentación y proyecto d
 - Paquetes varios: https://www.rstudio.com/products/rpackages/
 
 
-**Blog destacados**:
-
+Blog destacados:
+---
 - https://blog.rstudio.com/
 - https://www.r-bloggers.com/
 
@@ -53,25 +54,39 @@ Estos son algunos enlaces de interés relacionados con la formación _on-line_ en 
 
 Puedes bajarte APP al movil:
 - https://play.google.com/store/apps/details?id=com.datacamp&hl=en_US
-- https://conceptosclaros.com/instalar-r-primeros-pasos/
+
 
 Otros
 ========================================================
-
 No sólo puedes buscar tus dudas de código sino subir las preguntas a la WEB:
-
 - En español: https://es.stackoverflow.com/
 - En Inglés: https://stackoverflow.com/
 
-## Cursos UDEMY (español)
+Cursos UDEMY (español)
+----
+
 - **Curso completo de R para Data Science con Tidyverse**:
 https://www.udemy.com/share/100fs2AEMadVlQRX4=/
 Creado por Juan Gabriel Gomila.
 Fecha de la última actualización: 1/2019
-
 - **Comienza con R: Curso de R para Principiantes** 
 https://www.udemy.com/share/1002K4AEMadVlQRX4=/
 Creado por Sebastian Tunnell.
 Fecha de la última actualización: 10/2018
 
+MIRIADAX
+========================================================
 
+- **AprendeR: Introducción al tratamiento de datos con R y RStudio**
+https://miriadax.net/web/aprende-r-rstudio/inicio
+
+- **Análisis Estadístico de datos con R (2ª Edición)**
+https://miriadax.net/web/aprende-analisis-estadistico-datos-r-2edicion/inicio
+
+
+- **Curso Práctico de Bioestadística con R (Primera parte) (3.ª edición)**
+https://miriadax.net/web/curso-practico-bioestadistica-r-3edicion/inicio
+
+MAS:
+---
+- https://conceptosclaros.com/instalar-r-primeros-pasos/
