@@ -53,6 +53,19 @@ https://www.edx.org/course/analytics-edge-mitx-15-071x-3
 - *Data Science Research Methods: R Edition*:
 https://www.edx.org/course/research-methods-for-data-science-r-edition
 
+# Cursos MIRIADAX (español)
+
+- **AprendeR: Introducción al tratamiento de datos con R y RStudio**
+https://miriadax.net/web/aprende-r-rstudio/inicio
+
+- **Análisis Estadístico de datos con R (2ª Edición)**
+https://miriadax.net/web/aprende-analisis-estadistico-datos-r-2edicion/inicio
+
+
+- **Curso Práctico de Bioestadística con R (Primera parte) (3.ª edición)**
+https://miriadax.net/web/curso-practico-bioestadistica-r-3edicion/inicio
+
+
 # Cursos UDEMY (español)
 - **Curso completo de R para Data Science con Tidyverse**:
 https://www.udemy.com/share/100fs2AEMadVlQRX4=/

@@ -156,3 +156,6 @@ How to download Sentinel data: https://www.youtube.com/watch?v=-DZhfxmhlxM
 How to request a RUS Virtual Machine: https://www.youtube.com/watch?v=16BLrtbObSE
 
 How to register to RUS Copernicus?: https://www.youtube.com/watch?v=r2KtgWdfkYQ
+
+**CSC - IT CENTER FOR SCIENCE LTD.** 
+https://research.csc.fi/home
